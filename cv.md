@@ -39,4 +39,3 @@
 ## Langueges
 * English (Pre-intermediate, in progress)
 * Ukrainian (Native)
-
