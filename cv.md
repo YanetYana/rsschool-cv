@@ -37,5 +37,5 @@
     * Specialist Degree in Physical rehabilitation 
 
 ## Langueges
-* English (Pre-intermediate, in progress)
+* English (Intermediate)
 * Ukrainian (Native)
